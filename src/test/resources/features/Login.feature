@@ -9,4 +9,4 @@ Feature: Login feature
       | username | password |
       | name1    | pass1    |
       | name2    | pass2    |
-      | name3    | pass3    |
+      | name4    | pass3    |
