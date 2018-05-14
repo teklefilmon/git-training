@@ -10,3 +10,4 @@ Feature: Login feature
       | name1    | pass1    |
       | name2    | pass2    |
       | name100    | pass100    |
+      | name5    | pass5    |
